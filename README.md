@@ -71,8 +71,8 @@
 ## What is broken
 ### Hardware
 - Nvidia GPU
-- A built-in ethernet disabled specially
 - CPU temperature monitoring
+- ~~A built-in ethernet disabled specially~~
 
 ### Software
 - iCloud keychain sync
