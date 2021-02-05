@@ -54,7 +54,8 @@
 - Wi-Fi and Bluetooth
 - Motherboard's audio
 - External USB mic
-- AirPods Pro
+- AirPods Pro (Bluetooth)
+- Apple Magic Trackpad 2 (Bluetooth)
 
 ### Software
 - XCode, iOS Simulator, Safari and other Apple software
