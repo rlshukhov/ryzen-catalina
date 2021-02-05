@@ -49,6 +49,7 @@
 ## What is worked
 ### Hardware
 - GPU's acceleration with RX 560D
+- CPU temperature monitoring
 - USB ports (2.0 and 3.0)
 - Built-in ethernet (but in this config MB's ethernet is disabled)
 - Wi-Fi and Bluetooth
@@ -72,7 +73,6 @@
 ## What is broken
 ### Hardware
 - Nvidia GPU
-- CPU temperature monitoring
 - ~~A built-in ethernet disabled specially~~
 
 ### Software

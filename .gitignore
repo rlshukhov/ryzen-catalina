@@ -29,3 +29,7 @@ Temporary Items
 # Other OS
 EFI/APPLE
 EFI/Microsoft
+
+# IDE
+.idea
+
