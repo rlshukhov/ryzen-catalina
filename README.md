@@ -3,6 +3,19 @@
 #### macOS version Catalina 10.15.7
 
 
+- [System configuration](#system-configuration)
+    - [General](#general)
+    - [Other](#other)
+- [What is worked](#what-is-worked)
+    - [Hardware](#hardware)
+    - [Software](#software)
+- [What is broken](#what-is-broken)
+    - [Hardware](#hardware-1)
+    - [Software](#software-1)
+- [Installation](#installation)
+- [Helpful links](#helpful-links)
+
+
 ## System configuration
 ### General
 - CPU
@@ -33,7 +46,7 @@
     - Apple Magic Trackpad 2
 
 
-## What's work (tested)
+## What is worked
 ### Hardware
 - GPU's acceleration with RX 560D
 - USB ports (2.0 and 3.0)
@@ -55,7 +68,7 @@
 - other...
 
 
-## What does not work
+## What is broken
 ### Hardware
 - Nvidia GPU
 - A built-in ethernet disabled specially
@@ -71,7 +84,7 @@
 ## Installation 
 - Read [OpenCore installation guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Fix iServices](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
-- Note: **in this config serials and mac address in empty**
+- Note: **in this config serials and mac-address in empty**
 
 ## Helpful links
 - Docker on AMD hackintosh: [one](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e), [two](https://evgeni.blog/hackintosh/docker-amd-ryzen)
